@@ -20,3 +20,7 @@ ec2-35-160-23-58.us-west-2.compute.amazonaws.com:8080
 
 User: admin
 Passwd: prueba
+
+Generate WAR file:
+Go to war proyect folder(command line) and ejecute
+jar -cvf learning.war *
